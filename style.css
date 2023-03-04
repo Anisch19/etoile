@@ -1,0 +1,141 @@
+body{
+    margin:0;
+    text-align: center;
+    background-color: #ebe8e2;
+    
+}
+
+   
+
+    
+h1{
+   
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    margin: 20px auto 0 auto;
+    color:#240606;
+    line-height: 2;
+    
+    
+}
+h2{
+    font-family: cursive;
+    color:rgb(177, 52, 52);
+    font-weight: normal;
+    font-size: 2rem;
+    
+    
+}
+.h3 {
+    font-family: cursive;
+    color: #11999E;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    
+}
+    
+
+.top-container {
+position: relative;
+padding-top :60px;
+margin-bottom: 20px;
+
+
+
+
+
+}
+.middle-container {
+    margin-top:19px;
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    top: 220px;
+
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;   
+}
+
+ .img1 { 
+    width: 19%; 
+    margin-top: 19px;
+    margin-bottom: 1px;
+ }
+ 
+  
+ .img2 {
+     width: 19%;
+     float: left;
+     margin-right: 30px;
+    
+ }
+ .img3 {
+  width: 19%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+.etoile {
+    font-size: 150px;
+}
+
+p {
+    font-family: cursive;
+    margin: auto;
+    line-height: 2;
+    font-size: smaller;
+
+    
+    
+}
+a{
+    color: #11999E;
+    text-decoration: none;
+    font-size: medium;
+}
+a:hover{
+    color: aqua;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    font-size: larger;
+    
+}
+.profile{
+    padding-bottom: 5px;
+}
+hr{
+    border: dotted #ECF2FF 6px;
+    border-bottom: none;
+    width:5%;
+    margin: 50px auto 50px auto;
+    text-align: center;
+}
+.bottom-container{
+    margin-bottom: 20px;
+}
+ 
+.h33:hover{
+    color: gold;
+}
+.btn{
+    background-color:#ebe8e2 ;
+}
+.img2:hover {
+    transform: scale(190%);
+  box-shadow: 10px rgb(0, 0, 0);
+}
+.img3:hover{
+    transform: scale(190%);
+  box-shadow: 10px rgb(0, 0, 0);
+}
